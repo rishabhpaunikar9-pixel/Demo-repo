@@ -1,3 +1,4 @@
 # Demo-repo
-This is a demo repo
-Author- Rishabh paunikar 
+This is a demo repo.
+<br>
+Author- Rishabh paunikar.
